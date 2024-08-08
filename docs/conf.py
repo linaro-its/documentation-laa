@@ -1,0 +1,1 @@
+project = 'Linaro Automation Appliance'
